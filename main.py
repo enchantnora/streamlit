@@ -69,3 +69,5 @@ df3= pd.DataFrame(
     columns=['lat', 'lon']
 )
 st.map(df3)
+
+'更新'
